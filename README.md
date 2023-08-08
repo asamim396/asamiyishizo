@@ -1,24 +1,27 @@
-# README
+# 浅見与し三 ECサイト
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+茶道や飲食店をしている方向けの販売を目的としたECサイト
 
-Things you may want to cover:
+### テーマを選んだ理由
+- 売上の向上　
+- 将来的に海外展開を考えている
+​
+### ターゲットユーザ
+- 茶道関係者
+- 飲食関係者
+​
+### 主な利用シーン
+- 商品の購入
+​
+## 設計書
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+​
+## 開発環境
+- OS：MacOS
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+- 
